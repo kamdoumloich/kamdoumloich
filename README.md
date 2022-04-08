@@ -3,5 +3,5 @@
 - 🌱 I’m currently studying Computer science
 - 💞️ I’m looking to collaborate on Machine Learning or AI projects
 - 📫 How to reach me kamdoumloich@yahoo.fr
-- You can find my CV [here](https://kamdoum@lebenslauf.digital).
+- You can find my CV [here](https://kamdoum.lebenslauf.digital).
 
